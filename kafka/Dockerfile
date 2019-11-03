@@ -36,3 +36,4 @@ ENTRYPOINT ["/bin/sh", "/docker-entrypoint.sh"]
 
 CMD ["bin/kafka-server-start.sh", "config/server.properties"]
 
+
